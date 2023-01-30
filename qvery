@@ -1,0 +1,10 @@
+--CREATE TABLE Book (
+--    ID_Book  Integer identity(1,1) Not Null Primary Key,
+--    Name nVarChar(50) ,
+--    Price Decimal(15, 2),
+   
+--)
+--ALTER TABLE book
+--ADD Author NVARCHAR(50) NOT NULL;
+--INSERT INTO Book (Name, Price,Author)  
+--VALUES ('dsf',23.2,'dfg');
